@@ -1,7 +1,6 @@
-# requirements.txt yang DIJAMIN KOMPATIBEL
-streamlit==1.36.0 # Versi ini sudah mengatasi batasan NumPy 2.0
-pandas==2.2.0
-numpy==2.0.0
-matplotlib==3.8.0
-seaborn==0.13.0
-scikit-learn==1.4.0
+streamlit==1.36.0
+pandas==2.1.4
+numpy==1.26.4
+matplotlib==3.8.2
+seaborn==0.13.2
+scikit-learn==1.4.2
