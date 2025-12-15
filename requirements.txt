@@ -1,6 +1,6 @@
-streamlit==1.30.0
-pandas==2.2.0  # Versi 2.0.0 mungkin bermasalah dengan Numpy 2.x, lebih aman upgrade.
-numpy==2.0.0   # Ganti ke versi 2.0.0 ke atas, karena ini kompatibel dengan Python 3.13
+streamlit==1.34.0
+pandas==2.2.0
+numpy==2.0.0
 matplotlib==3.8.0
 seaborn==0.13.0
-scikit-learn==1.4.0 # Lebih aman menggunakan versi yang lebih baru (1.4.x) untuk kompatibilitas
+scikit-learn==1.4.0
