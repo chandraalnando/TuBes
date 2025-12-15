@@ -1,5 +1,5 @@
-# requirements.txt yang KOMPATIBEL PENUH
-streamlit==1.35.0 # Ganti ke versi 1.35.0 atau lebih tinggi
+# requirements.txt yang DIJAMIN KOMPATIBEL
+streamlit==1.36.0 # Versi ini sudah mengatasi batasan NumPy 2.0
 pandas==2.2.0
 numpy==2.0.0
 matplotlib==3.8.0
